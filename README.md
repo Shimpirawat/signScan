@@ -1,4 +1,4 @@
-# signScan
+## signScan (Traffic Sign Classifier)
 
 ### Overview
 The Traffic Sign Classifier is a machine learning model based on Convolutional Neural Networks (CNN) and implemented using TensorFlow. The purpose of this project is to develop a robust system capable of recognizing and classifying traffic signs commonly found on roads. The model can be used to enhance road safety by providing real-time predictions of traffic signs from images or video streams.
